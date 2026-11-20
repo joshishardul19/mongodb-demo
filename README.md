@@ -6,6 +6,8 @@ The data is **synthetic**. It is generated to resemble the structure of Singapor
 
 Tested with MongoDB 8.0 and `mongosh` 2.14.
 
+> **AI usage:** The scripts and this setup guide were drafted with the help of an AI assistant (Claude) and then reviewed and tested by the author.
+
 ## Files
 
 | File | Purpose |
